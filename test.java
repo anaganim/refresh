@@ -11,7 +11,9 @@ public class test {
     public static void main(String[] args){
        test obj=new test();
        obj.sum(10,20);
-       System.out.println("hello welcome to maveric")
+       System.out.println("hello welcome to maveric");
+        System.out.println("==============================)");
+
 
     }
 }
