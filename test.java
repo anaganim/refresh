@@ -11,7 +11,13 @@ public class test {
     public static void main(String[] args){
        test obj=new test();
        obj.sum(10,20);
+<<<<<<< HEAD
        System.out.println("hello world");
+=======
+       System.out.println("hello welcome to maveric");
+        System.out.println("==============================)");
+
+>>>>>>> dev1
 
     }
 }
